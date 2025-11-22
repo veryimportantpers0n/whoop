@@ -65,3 +65,14 @@ Aquí guardo:
 ## 📹 YouTube
 
 Este repositorio acompaña contenido publicado en mi canal de YouTube.
+
+---
+
+## 🌐 Sitio Web
+
+He incluido un sitio web moderno para presentar el proyecto.
+Puedes ver el código en la carpeta `/web` (o `/docs` si decides publicarlo).
+
+**Para ver el sitio online:**
+1. Activa **GitHub Pages** en la configuración del repositorio.
+2. Consulta la guía detallada en `Documentación/Guía_GitHub_Pages.md`.
